@@ -1,0 +1,13 @@
+2022-04-05 10:43:13.5956|TRACE|SalesManagementAPI.Controllers.CustomerController|GetCustomers Action
+05/04/2022 10:43:13 AM
+2022-04-05 10:43:13.9062|ERROR|SalesManagementAPI.Controllers.CustomerController|GetCustomers Action as an Error
+2022-04-05 10:45:43.1818|TRACE|SalesManagementAPI.Controllers.CustomerController|GetCustomers Action
+05/04/2022 10:45:43 AM
+2022-04-05 10:45:43.4867|ERROR|SalesManagementAPI.Controllers.CustomerController|GetCustomers Action has an Error
+2022-04-05 10:48:14.3444|TRACE|SalesManagementAPI.Controllers.CustomerController|GetCustomers Action
+05/04/2022 10:48:14 AM
+2022-04-05 10:48:14.6291|ERROR|SalesManagementAPI.Controllers.CustomerController|System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'GetAllCustomerss'.
+   at SalesAPI.Domain.Entities.CustomerEntity.GetListofCustomer() in C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\SalesAPI.Domain\Entities\CustomerEntity.cs:line 36
+   at SalesManagementAPI.Controllers.CustomerController.GetCustomers() in C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\SalesManagementAPI\Controllers\CustomerController.cs:line 43
+ClientConnectionId:cd20fc17-b626-436b-b308-fbca059eacf2
+Error Number:2812,State:62,Class:16

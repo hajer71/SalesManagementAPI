@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\assignment\SalesManagementAPI\API.Common\bin\Debug\API.Common.dll
+C:\Users\user\Desktop\assignment\SalesManagementAPI\API.Common\bin\Debug\API.Common.pdb
+C:\Users\user\Desktop\assignment\SalesManagementAPI\API.Common\obj\Debug\API.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\assignment\SalesManagementAPI\API.Common\obj\Debug\API.Common.dll
+C:\Users\user\Desktop\assignment\SalesManagementAPI\API.Common\obj\Debug\API.Common.pdb
+C:\Users\user\Desktop\SalesManagementAPI\API.Common\bin\Debug\API.Common.dll
+C:\Users\user\Desktop\SalesManagementAPI\API.Common\bin\Debug\API.Common.pdb
+C:\Users\user\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.dll
+C:\Users\user\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.pdb
+C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\API.Common\bin\Debug\API.Common.dll
+C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\API.Common\bin\Debug\API.Common.pdb
+C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.csproj.AssemblyReference.cache
+C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.csproj.CoreCompileInputs.cache
+C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.dll
+C:\Users\hajer.almazmi\Desktop\SalesManagementAPI\API.Common\obj\Debug\API.Common.pdb
